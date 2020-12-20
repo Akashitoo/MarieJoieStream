@@ -7,8 +7,12 @@ header{
 	color: white 
 }
 
+img{
+	padding-left: 50px;
+}
+
 nav.menu-nav{
-	padding-left: 725px; 
+	padding-left: 770px; 
 } 
 nav.menu-nav ul li.btn{
 	display: inline-block;
@@ -36,6 +40,7 @@ nav.menu-nav ul li.btn:hover a{
 div{
 	padding-top: 50px;
 	padding-left: 600px;
+	padding-right: 600px;
 
 }
 
@@ -54,3 +59,8 @@ div iframe:hover{
     -webkit-border-radius: 10px;
 	border-radius: 20px;
 	transition: 0.5s; 
+}
+div.select{
+	padding: 0px;
+	padding-left: 880px;
+}
