@@ -1,3 +1,5 @@
+
+
 body{
 	background-color: #1B1B1B
 }
@@ -32,6 +34,10 @@ nav.menu-nav ul li.btn:hover a{
 	transition: 0.5s all;
 }
 
+::selection {
+  color: red;
+  background: yellow;
+}
 footer{
 	color: #ffffff;
 	background-color: #414649;
