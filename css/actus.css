@@ -8,9 +8,12 @@ header{
 	padding-left: 700px;
 	color: white 
 }
+img.logo{
+	padding-left: 50px;
+}
 
 nav.menu-nav{
-	padding-left: 725px; 
+	padding-left: 770px; 
 } 
 nav.menu-nav ul li.btn{
 	display: inline-block;
@@ -33,11 +36,15 @@ nav.menu-nav ul li.btn:hover a{
 	background-color: #DAD9D3;
 	transition: 0.5s all;
 }
-
-::selection {
-  color: red;
-  background: yellow;
+h1{
+	color: white;
 }
+img.work{
+  	opacity: 100%; 
+  	width:300px;
+  	padding-top: 10px;
+}
+
 footer{
 	color: #ffffff;
 	background-color: #414649;

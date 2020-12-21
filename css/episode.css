@@ -9,14 +9,18 @@ header{
 
 img{
 	padding-left: 50px;
-}
+}	
+
 
 nav.menu-nav{
-	padding-left: 770px; 
+	padding-left: 770px;
+
 } 
+ 
 nav.menu-nav ul li.btn{
 	display: inline-block;
-	list-style-type: none; 
+	list-style-type: none;
+
 }
 
 nav.menu-nav ul li.btn a{
