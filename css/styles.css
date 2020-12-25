@@ -1,19 +1,23 @@
 
 body{
-	background-color: #1B1B1B
+	background-color: #1B1B1B;
 }
 
 header{
-	padding-left: 700px;
+	padding-left:
 	color: white 
 }
-img.logo{
-	padding-left: 50px;
-}
+
+
+
+
+
+
 
 nav.menu-nav{
-	padding-left: 770px; 
-} 
+	padding-left:
+}
+
 nav.menu-nav ul li.btn{
 	display: inline-block;
 	list-style-type: none; 
@@ -34,69 +38,39 @@ nav.menu-nav ul li.btn:hover a{
 	color: #414649;
 	background-color: #DAD9D3;
 	transition: 0.5s all;
-
 }
 
-div#content h2{
-	padding-left: 50px;
-	color: white;
-}
 div#content div{
 	display: inline-block;
-	margin-left: 175px;
-	margin-top: 70px;
+	margin:50px 50px 50px 50px;
 }
+
+
 div#série div{
 	background-color: #414649;
 	padding:15px;
 	-moz-border-radius: 15px;
     -webkit-border-radius: 15px;
-	border-radius: 30px; 
-	
+	border-radius: 30px;
 }
 
 div#série div:hover{
 	background-color: #DAD9D3;
-	padding:15px;
+	padding: 15px;
 	-moz-border-radius: 15px;
     -webkit-border-radius: 15px;
-	border-radius: 30px; 
+	border-radius: 30px;
 	transition: 0.5s;
 }	
 
 div#série a img{
 	-moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
-	border-radius: 20px; 
+ 	-webkit-border-radius: 20px;
+	border-radius: 20px;
 }
-
 
 footer{
-	color: #ffffff;
+	color: white;
 	background-color: #414649;
-	margin-top: 200px;
-
 }
-/*body{
-	background-color: #414649; 
-	font-family: 'Secular One', sans-serif;
-}
-h1{
-	font-size: 150px;
-	padding-left: 250px
-	
-
-}
-p.bienvenue{
-	color: red;
-	
- ;
-}
-
-a{
-	color: #ffffff
-}*/
-
-
-
 

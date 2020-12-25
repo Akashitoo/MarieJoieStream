@@ -1,20 +1,16 @@
-
-
 body{
-	background-color: #1B1B1B
+	background-color: #1B1B1B;
 }
 
 header{
-	padding-left: 700px;
+	padding-left:
 	color: white 
-}
-img.logo{
-	padding-left: 50px;
 }
 
 nav.menu-nav{
-	padding-left: 770px; 
+	padding-left: 
 } 
+
 nav.menu-nav ul li.btn{
 	display: inline-block;
 	list-style-type: none; 
@@ -36,6 +32,7 @@ nav.menu-nav ul li.btn:hover a{
 	background-color: #DAD9D3;
 	transition: 0.5s all;
 }
+
 h1{
 	color: white;
 }

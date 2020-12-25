@@ -2,24 +2,13 @@ body{
 	background-color: #1B1B1B;
 }
 
-header{
-	padding-left: 700px;
-	color: white 
-}
-
-img{
-	padding-left: 50px;
-}	
-
-
 nav.menu-nav{
-	padding-left: 770px;
-
+	padding-left:
 } 
- 
 nav.menu-nav ul li.btn{
 	display: inline-block;
 	list-style-type: none;
+
 
 }
 
@@ -42,11 +31,21 @@ nav.menu-nav ul li.btn:hover a{
 }
 
 div{
-	padding-top: 50px;
-	padding-left: 600px;
-	padding-right: 600px;
-
+	margin-bottom: 50px;
 }
+
+div.select select{
+	margin: auto;
+	font-size: 20px;
+	color: #DAD9D3 ;
+	background-color: #1B1B1B;
+	padding-left: 30px;
+	padding-right:30px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 200px; 
+} 
+
 
 div iframe{
 	padding: 15px;
@@ -64,21 +63,3 @@ div iframe:hover{
 	border-radius: 20px;
 	transition: 0.5s; 
 }
-div.select{
-	padding: 0px;
-	padding-left: 825px;
-
-}
-
-div.select select{
-	font-size: 20px;
-	color: #DAD9D3 ;
-	background-color: #1B1B1B;
-	padding-left: 30px;
-	padding-right:30px;
-	-moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-	border-radius: 20px; 
-
-} 
-
